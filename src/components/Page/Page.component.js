@@ -4,7 +4,7 @@ import './Page.css';
 
 const Page = () => (
   <ThemeContext.Consumer>
-    <div className="container">cala strona na czarno-biało</div>
+    <div className="container">cala strona</div>
   </ThemeContext.Consumer>
 );
 
